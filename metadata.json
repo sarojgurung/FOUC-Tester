@@ -1,0 +1,5 @@
+{
+  "name": "Font Overlay & FOUC Tester",
+  "description": "Compare two fonts by overlapping them to find the best fallback font and minimize layout shifts (FOUC). Supports Google Fonts and custom font uploads.",
+  "requestFramePermissions": []
+}
